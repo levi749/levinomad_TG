@@ -38,7 +38,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '😜JOIN CHANNEL😜', url="https://t.me/FILMDOMPICTURES"
                                 )
                         ]
                     ]
@@ -57,7 +57,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '🛡️JOIN CHANNEL 🛡️', url="https://t.me/FILMDOMPICTURES"
                                 )
                         ]
                     ]
@@ -76,7 +76,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    'Devolepers', url="https://t.me/CrazyBotsz"
                                 )
                         ]
                     ]
